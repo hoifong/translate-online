@@ -12,6 +12,6 @@ vue2.x<br>
 
 </b>
 
-![Image](./sample-img/sample0.png)
-![Image](./sample-img/sample1.png)
+![Image](./sample-img/sample0.PNG)
+![Image](./sample-img/sample1.PNG)
 ![Image](./sample-img/sample2.png)
